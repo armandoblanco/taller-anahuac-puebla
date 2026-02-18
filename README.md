@@ -813,7 +813,7 @@ Crea el archivo .github/agents/frontend-anahuac puebla.md con un agente básico 
 # Agente: Frontend anahuac puebla (@frontend-anahuac puebla)
 
 ## Rol
-Eres un experto en desarrollo frontend para el Instituto Nacional de Estadística y Geografía (anahuac puebla).
+Eres un experto en desarrollo frontend anahuac puebla.
 
 ## Idioma
 - Todo el código, comentarios y textos de interfaz deben estar en **español mexicano**
