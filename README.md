@@ -373,7 +373,7 @@ Sigue respondiendo en español
 **🤖 PROMPT en Modo Agent:**
 
 ```
-Ahora sí, crea la especificación técnica completa del sistema.
+Ahora sí, crea la especificación técnica del sistema para los modulos de Gestion de productos y ventas basicas
 
 Crea el archivo docs/especificaciones/especificacion-sistema.md con:
 
