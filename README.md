@@ -859,25 +859,15 @@ Eres un experto en desarrollo frontend anahuac puebla.
 Analiza este screenshot del sitio oficial de anahuac puebla y extrae la siguiente información de diseño:
 
 1. **Paleta de colores**: Identifica los colores principales usados en:
-   - Header/navegación
-   - Botones y llamadas a la acción
-   - Fondos y textos
-   - Acentos y elementos secundarios
-   Proporciona los códigos hexadecimales exactos o aproximados
 
 2. **Tipografía**: 
-   - Fuentes utilizadas (o similares si no son identificables)
-   - Jerarquía de tamaños (h1, h2, h3, texto base)
+
 
 3. **Componentes UI identificados**:
-   - Estilo de header y navegación
-   - Estilo de tarjetas/cards
-   - Estilo de botones
-   - Estilo de footer
+
 
 4. **Espaciado y layout**:
-   - Márgenes y paddings aproximados
-   - Estructura de grid
+
 
 Genera esta información en formato que pueda agregar al agente frontend-anahuac puebla.md
 ```
